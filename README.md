@@ -1,0 +1,1 @@
+# resumos-lab-ia-azure
