@@ -1,4 +1,4 @@
-# 📖 Resumos dos Laboratórios IA-Azure
+# 📖 Resumos dos Laboratórios Azure AI
 ### Este repositório contém o resumo das lições aprendidas sobre IA na Cloud Azure, durante o desenvolvimento dos labobarórios na DIO. 
 
 ## Sumário
