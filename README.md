@@ -40,7 +40,7 @@ Foi utilizada uma das amostras de texto disponíveis, o resultado é mostrado ab
 
 ### 2. Resumo do laboratório 2: Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
 
-No laboratório foram configurados três recursos com o objetivo de fazer busca em documentos. 
+No laboratório foram configurados três recursos com o objetivo de fazer buscas em documentos. 
 Os passos realizados fora os seguintes: 
 
 <ins>Criar grupo de recursos e detalhar instância no AI Search</ins>
@@ -58,10 +58,11 @@ Os passos realizados fora os seguintes:
 3. Performance – Standard
 4. Redundancy – Locally-redundant Storage (LRS)
 
-Configuração do Storage:
+Configuração do Storage. Essa configuração irá permitir adicionar o container.
 ![Imagem 1](/images/IA4.PNG)
 
-Essa configuração irá permitir adicionar o container. 
+
+<ins> Criar container e adicionar arquivos </ins>
 1. Data Storage – Containers – New container – Container (anonymous read access...)
 2. Nome do container coffereviews
 3. Carregar os arquivos para dentro do container em Upload
