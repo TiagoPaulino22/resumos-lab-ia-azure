@@ -29,9 +29,9 @@ Para a análise de sentimentos, foram seguidos os seguintes passos:
 
 Foi utilizada uma das amostras de texto disponíveis, o resultado é mostrado abaixo: 
 
-![Imagem 1](/images/IA2.PNG)
+![Imagem 2](/images/IA2.PNG)
 
-![Imagem 1](/images/IA3.PNG)
+![Imagem 3](/images/IA3.PNG)
 
 ### 🔎 Links úteis 
 - [Explore Speech in Azure AI Foundry portal](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html)
@@ -59,7 +59,8 @@ Os passos realizados fora os seguintes:
 4. Redundancy – Locally-redundant Storage (LRS)
 
 Configuração do Storage. Essa configuração irá permitir adicionar o container.
-![Imagem 1](/images/IA4.PNG)
+
+![Imagem 4](/images/IA4.PNG)
 
 
 <ins> Criar container e adicionar arquivos </ins>
@@ -70,4 +71,23 @@ Configuração do Storage. Essa configuração irá permitir adicionar o contain
 Utilizando o IA Search foi possível fazer pesquisas nos documentos armazenados utilizando filtros de localização e análise de sentimentos. 
 
 ### 3. Resumo do laboratório 3: Explorando os Recursos de IA Generativa com Copilot e OpenAI
+
+No início do laboratório foram apresentados os passos para gerar uma solução de IA responsável. 
+
+![Imagem 5](/images/IA5.PNG)
+
+Em seguida, foram explorados alguns recursos do Microssoft Copilot. 
+
+Para geração de imagem, pedi para que fosse gerada uma imagem de um tigre e um leão brigando. O resultado é mostrado abaixo. 
+
+![Imagem 6](/images/IA6.PNG)
+
+Para geração de código, foi pedido que fosse gerado um código em Python de um jogo da velha. O resultado é mostrado a seguir. 
+
+![Imagem 7](/images/IA7.PNG)
+
+### 🔎 Links úteis 
+- [Explore generative AI in Azure AI Foundry Portal](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html )
+- [Apply content filters to prevent the output of harmful content](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/06-Explore-content-filters.html )
+- [Prepare for an AI development project](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/01-Explore-ai-studio.html )
 
